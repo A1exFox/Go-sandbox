@@ -5,5 +5,9 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello")
+	x, y := 4, "string"
+	fmt.Println(x, y)
+
+	g := 'Σ'
+	fmt.Println(g)
 }
